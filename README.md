@@ -53,3 +53,10 @@ You can build all sub-projects in all flavors at once using Gradle:
     gradle clean build
 
 For details about building the wallet see the [specific README](wallet/README.md).
+
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
